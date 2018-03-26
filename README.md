@@ -25,7 +25,7 @@
 
 ### Core code
 
-```OC
+```objc
 /**
  tabBar click event callback
  
@@ -142,7 +142,7 @@ SOFTWARE.
 ## 🛠 使用
 
 ### 核心代码
-```OC
+```objc
 /**
  tabBar 点击事件回调
  
